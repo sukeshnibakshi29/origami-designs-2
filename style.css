@@ -1,0 +1,26 @@
+
+.menu{
+    display: flex;
+    justify-content: space-between ;
+    background-color: rgb(16, 203, 236);
+   
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+body {
+    background-color: rgb(190, 92, 214);
+}
+
+.origami{
+  
+    border-radius: 20px;
+    background-color: white;
+
+    width: 310px;
+    font-family: fantasy;
+
+    
+}
+
